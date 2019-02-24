@@ -12,3 +12,9 @@ inside a 100 x loop:
     The peekData function is called on the Lighthouse contract at 0x4E10A95f0bb2fEc6ec1c4296a16420a018a5F9Fe
     If no errors were encountered, the score is incremented.
     
+## Scores
+
+    http://goerli.blockscout.com   0
+    http://goerli.prylabs.net      100
+    https://rpc.goerli.mudit.blog   29
+    https://rpc.slock.it/goerli    100
