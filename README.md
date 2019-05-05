@@ -2,8 +2,8 @@
 
 This test attempts to access the Rhombus Network Lighthouse contract 100 times for each of the goerli rpc access points
 
-    "http://goerli.blockscout.com",
-    "http://goerli.prylabs.net",
+    "https://goerli.blockscout.com",
+    "https://goerli.prylabs.net",
     "https://rpc.goerli.mudit.blog",
     "https://rpc.slock.it/goerli"
 
@@ -14,7 +14,7 @@ inside a 100 x loop:
     
 ## Scores
 
-    http://goerli.blockscout.com   0
-    http://goerli.prylabs.net      100
+    https://goerli.blockscout.com   0
+    https://goerli.prylabs.net      100
     https://rpc.goerli.mudit.blog   29
     https://rpc.slock.it/goerli    100
